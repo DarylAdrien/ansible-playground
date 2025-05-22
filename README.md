@@ -1,5 +1,5 @@
 # ansible-playground
-
+![Ansible-logo](https://miro.medium.com/v2/resize:fit:1200/1*c8BaaE4zIVu9llxLouqPlg.png)
 ## What is Ansible ?
 
 Ansible is an open source IT automation engine that automates 
@@ -10,6 +10,7 @@ Ansible is an open source IT automation engine that automates
 
 and many other IT processes. It is free to use, and the project benefits from the experience and intelligence of its thousands of contributors.
 
+![Ansible](https://miro.medium.com/v2/resize:fit:708/1*M-aK_zATdbSr0rRrEoKFSg.png)
 ## How Ansible works ?
 
 Ansible is agentless in nature, which means you don't need install any software on the manage nodes.
